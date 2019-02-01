@@ -15,4 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-/*lalsllslsal*/
+/*la*/
+
+/*la*/
+/*la*/
+/*la*//*la*/
+/*la*/
