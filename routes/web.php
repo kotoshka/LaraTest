@@ -18,6 +18,3 @@ Route::get('/', function () {
 /*la*/
 
 /*la*/
-/*la*/
-/*la*//*la*/
-/*la*/
